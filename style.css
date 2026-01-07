@@ -121,6 +121,10 @@ h2 {
     font-size: 1.1rem;
     font-weight: bold;
 }
+.skill-card:hover{
+    background: #1113bed3;
+    color: #fff;
+}
 
 /* Project and Certificate Cards */
 .project-card, .cert-item, .education-item {
@@ -181,3 +185,4 @@ footer a:hover {
     background-color: #5b9bd5;
     color: #fff;
 }
+
